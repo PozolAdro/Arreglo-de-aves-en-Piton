@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.34031.81
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Arreglo de aves en Piton", "Arreglo de aves en Piton\Arreglo de aves en Piton.pyproj", "{2D71ACCC-91E8-490C-9B4A-51E8E5FF474D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2D71ACCC-91E8-490C-9B4A-51E8E5FF474D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2D71ACCC-91E8-490C-9B4A-51E8E5FF474D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {65140D80-5A44-44B5-B4BD-9E27E9D52ADD}
+	EndGlobalSection
+EndGlobal
